@@ -285,7 +285,7 @@
 			"storage_by_source": "Tárhely adatforrás szerint",
 			"no_ingestion_sources": "Nincsenek adatforrások.",
 			"indexed_insights": "Indexelt elemzések",
-			"top_10_senders": "10 legnagyobb feladó",
+			"top_10_senders": "10 leggyakoribb feladó",
 			"no_indexed_insights": "Nincsenek indexelt elemzések."
 		}
 	}
